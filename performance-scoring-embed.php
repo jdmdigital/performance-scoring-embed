@@ -212,14 +212,17 @@ if ( ! function_exists( 'psce_register_block' ) ) {
 		if ( ! function_exists( 'register_block_type' ) ) {
 			return;
 		}
-		register_block_type('performance-scoring/embed', array(
+		register_block_type( 'performance-scoring/embed', array(
+			'title'           => __( 'Performance Scoring Embed', 'performance-scoring-embed' ),
+			'icon'            => 'feedback',
+			'category'        => 'widgets',
 			'attributes'      => array(
 				'formID' => array(
 					'type' => 'string',
 				),
 			),
 			'render_callback' => 'psce_render_block',
-		));
+		) );
 	}
 	add_action('init', 'psce_register_block');
 }
