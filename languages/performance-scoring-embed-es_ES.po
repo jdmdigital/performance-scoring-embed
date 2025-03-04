@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Performance Scoring Embed 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-04 12:00+0000\n"
+"PO-Revision-Date: 2025-03-04 15:53-0600\n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: psce_options_page
+msgid "Performance Scoring Custom Form Embed Settings"
+msgstr "Configuración de Inserción de Formularios Personalizados de Performance Scoring"
+
+#: psce_add_admin_menu
+msgid "PS Forms Embed"
+msgstr "Inserción de Formularios PS"
+
+#: psce_settings_init
+msgid "Global Embed Settings"
+msgstr "Configuración Global de Inserción"
+
+#: psce_url_render
+msgid "Base URL"
+msgstr "URL Base"
+
+#: psce_url_render
+msgid "The URL where your Performance Scoring app is hosted."
+msgstr "La URL donde se aloja su aplicación Performance Scoring."
+
+#: psce_orgid_render
+msgid "Organization ID"
+msgstr "ID de la Organización"
+
+#: psce_orgid_render
+msgid "Your unique organization identifier provided by the Performance Scoring app."
+msgstr "El identificador único de su organización proporcionado por la aplicación Performance Scoring."
+
+#: psce_section_callback
+msgid "These values will be used to generate the correct custom surveys embed code for your forms."
+msgstr "Estos valores se utilizarán para generar el código de inserción correcto para sus encuestas personalizadas."
+
+#: psce_section_callback
+msgid "If you are unsure of these details, please check the Performance Scoring app documentation."
+msgstr "Si no está seguro de estos detalles, por favor revise la documentación de la aplicación Performance Scoring."
+
+#: psce_add_settings_link
+msgid "Settings"
+msgstr "Ajustes"

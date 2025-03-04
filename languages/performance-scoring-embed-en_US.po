@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Performance Scoring Embed 1.0.0\n"
+"POT-Creation-Date: 2025-03-04 16:05-0600\n"
+"PO-Revision-Date: 2025-03-04 16:05-0600\n"
+"Last-Translator: \n"
+"Language-Team: https://term13.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;_nx;esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: _notes\n"
+
+#: performance-scoring-embed.php:20
+msgid "Settings"
+msgstr "Settings"
+
+#: performance-scoring-embed.php:33
+msgid "Performance Scoring Custom Form Embed Settings"
+msgstr "Performance Scoring Custom Form Embed Settings"
+
+#: performance-scoring-embed.php:34
+msgid "PS Forms Embed"
+msgstr "PS Forms Embed"
+
+#: performance-scoring-embed.php:52 performance-scoring-embed.php:59
+msgid "Global Embed Settings"
+msgstr "Global Embed Settings"
+
+#: performance-scoring-embed.php:67
+msgid "Organization ID"
+msgstr "Organization ID"
+
+#: performance-scoring-embed.php:83
+msgid "The URL where your Performance Scoring app is hosted."
+msgstr "The URL where your Performance Scoring app is hosted."
+
+#: performance-scoring-embed.php:96
+msgid ""
+"Your unique organization identifier provided by the Performance Scoring app."
+msgstr ""
+"Your unique organization identifier provided by the Performance Scoring app."
+
+#: performance-scoring-embed.php:105
+msgid ""
+"These values will be used to generate the correct custom surveys embed code "
+"for your forms."
+msgstr ""
+"These values will be used to generate the correct custom surveys embed code "
+"for your forms."
+
+#: performance-scoring-embed.php:111
+#, php-format
+msgid ""
+"If you are unsure of these details, please check the <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">Performance Scoring app "
+"documentation</a>."
+msgstr ""
+"If you are unsure of these details, please check the <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">Performance Scoring app "
+"documentation</a>."
+
+#: performance-scoring-embed.php:189
+msgid "loading..."
+msgstr "loading..."
